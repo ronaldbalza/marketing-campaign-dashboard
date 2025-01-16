@@ -59,12 +59,6 @@ The Power BI dashboard includes:
 
 ---
 
-## Contributing
-Contributions to improve the dataset, analytics, or visualizations are welcome. Please feel free to:
-- Open an issue for discussion.
-- Submit a pull request for enhancements.
-
----
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
